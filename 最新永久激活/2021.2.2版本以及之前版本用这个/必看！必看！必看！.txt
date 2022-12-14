@@ -1,0 +1,27 @@
+注意：将上面 ja-netfilter 文件夹整个拷贝到D盘根目录（WIN系统的话建议放D盘）
+
+
+本激活方法适用于 2021, 2020, 2019, 2018 全系列版本；
+
+文档更新日期：2022.1.1
+
+
+【注意】【注意】【注意】
+
+
+临时激活码：https://shimo.im/docs/913JVDrrOmhMj83E
+如果临时激活码不好用了，没有关系，因为你用的是老版本，会有一个试用按钮
+如果之前没有试用过，点evaluate for free即可进入软件
+如果之前试用过，没有试用机会了，也没有关系
+重启软件后会看到一个长的弹框，点ok，就会有30分钟试用时间
+进入软件后点edit vm options就可以添加下面的配置了
+配置完之后，重启软件，输入激活码即可激活
+
+WIN系统软件VM options文件配置路径示例
+下面的路径不要照抄，填你自己的ja-netfilter.jar文件的路径
+-javaagent:D:\ja-netfilter\ja-netfilter.jar
+
+mac和Linux系统软件VM options文件配置路径示例
+mac的直接把ja-netfilter.jar文件拖进终端里就显示路径了
+-javaagent:/Users/Username/ja-netfilter/ja-netfilter.jar
+
