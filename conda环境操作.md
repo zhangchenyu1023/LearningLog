@@ -15,3 +15,7 @@
 pip导出安装的库到txt：pip freeze > requirement.txt
 
 pip导入txt中列出的库到新机：pip install -r 1.txt
+
+
+
+克隆环境 conda create -n newname -clone oldname
