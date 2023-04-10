@@ -19,4 +19,4 @@
 --add-opens=java.base/jdk.internal.org.objectweb.asm=ALL-UNNAMED
 --add-opens=java.base/jdk.internal.org.objectweb.asm.tree=ALL-UNNAMED
 
--javaagent:C:\Users\13365\Desktop\jihuo-tool\ja-netfilter.jar=jetbrains
+-javaagent:C:\Users\Administrator\Desktop\LearningLog\最新永久激活\2021.2.3版本以及之后版本用这个（2022也用这个）\最新一键激活（建议使用）\ja-netfilter-all\ja-netfilter.jar=jetbrains

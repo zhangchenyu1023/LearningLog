@@ -18,5 +18,3 @@
 
 --add-opens=java.base/jdk.internal.org.objectweb.asm=ALL-UNNAMED
 --add-opens=java.base/jdk.internal.org.objectweb.asm.tree=ALL-UNNAMED
-
--javaagent:C:\Users\13365\Desktop\jihuo-tool\ja-netfilter.jar=jetbrains
